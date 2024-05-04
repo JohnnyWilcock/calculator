@@ -1,0 +1,39 @@
+
+body {
+  background-color: black;
+}
+
+.display {
+  background-color: darkcyan;
+  width: 250px;
+  font-size: 30px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.grey-button {
+  color: white;
+  background-color: rgb(82, 81, 81);
+  border:none;
+  border-radius: 60px;
+  height: 60px;
+  width: 60px;
+  font-size: 30px;
+  cursor: pointer;
+  }
+
+.orange-button {
+  color: white;
+  background-color: rgb(254, 160, 10);
+  border:none;
+  border-radius: 60px;
+  height: 60px;
+  width: 60px;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.clear {
+  width: 120px;
+
+}
